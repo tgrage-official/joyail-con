@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.custom{
-    background: url(https://shmove.github.io/gamepadviewer-procon/images/default/base.svg);
+    background: url(https://tgrage-official.github.io/joyail-con/images/base.png);
     background-size: 550px 420px;
     background-repeat: no-repeat;
     width: 550px;
@@ -19,7 +19,7 @@
 
 .custom .trigger-button{
     position: absolute;
-    background: url(https://shmove.github.io/gamepadviewer-procon/images/default/trigger-button.svg);
+    background: url(https://tgrage-official.github.io/joyail-con/images/trigger-button.png);
     background-size: 129.89px 54.08px;
     background-repeat: no-repeat;
     width: 65px;
@@ -44,7 +44,7 @@
 
 .custom .bumper{
     position: absolute;
-    background: url(https://shmove.github.io/gamepadviewer-procon/images/default/bumper.svg);
+    background: url(https://tgrage-official.github.io/joyail-con/images/bumper.png);
     background-size: 131.9px 43.55px;
     background-repeat: no-repeat;
     width: 131.9px;
@@ -69,7 +69,7 @@
 
 .custom .back, .custom .start{
     position: absolute;
-    background: url(https://shmove.github.io/gamepadviewer-procon/images/default/plusminus.svg);
+    background: url(https://tgrage-official.github.io/joyail-con/images/plusminus.png);
     background-size: 46px 44px;
     background-repeat: no-repeat;
     width: 23px;
@@ -94,7 +94,7 @@
 
 .custom .button{
     position: absolute;
-    background: url(https://shmove.github.io/gamepadviewer-procon/images/default/abxy.svg);
+    background: url(https://tgrage-official.github.io/joyail-con/images/abxy.png);
     background-size: 160px 82px;
     background-repeat: no-repeat;
     width: 40px;
@@ -128,7 +128,7 @@
 
 .custom .face{
     position: absolute;
-    background: url(https://shmove.github.io/gamepadviewer-procon/images/default/dpad.svg);
+    background: url(https://tgrage-official.github.io/joyail-con/images/dpad.png);
     background-size: 116.3px 56.6px;
     background-repeat: no-repeat;
     width: 29px;
@@ -162,7 +162,7 @@
 
 .custom .stick{
     position: absolute;
-    background: url(https://shmove.github.io/gamepadviewer-procon/images/default/stick.svg);
+    background: url(https://tgrage-official.github.io/joyail-con/images/stick.png);
     background-size: 135px 65px;
     background-repeat: no-repeat;
     background-position: -70px 0;
